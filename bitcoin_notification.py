@@ -26,9 +26,9 @@ def get_crypto_price(coin):
   return text
 
 #store the email addresses for the receiver, and the sender and stort the sender password
-receiver = 'ganorkarniranjan@gmail.com'
-sender ='gpcharde@gmail.com'
-sender_password= 'enter your pass'
+receiver = 'Eneter receiver mail id'
+sender ='Eneter sender mail id'
+sender_password= 'enter sender email password'
 
 #Create a function to send emails
 def send_email(sender, receiver, sender_password, text_price):
